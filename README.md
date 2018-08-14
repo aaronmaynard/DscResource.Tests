@@ -31,8 +31,6 @@ This branch is used by DSC Resource Kit modules for running common tests.
 <!-- TOC -->
 
 - [DSC Resource Common Meta Tests](#dsc-resource-common-meta-tests)
-  - [Goals](#goals)
-  - [Git and Unicode](#git-and-unicode)
   - [Markdown Testing](#markdown-testing)
   - [Example Testing](#example-testing)
   - [PSScriptAnalyzer Rules](#psscriptanalyzer-rules)
