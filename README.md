@@ -973,6 +973,7 @@ Contributors that add or change an example to be published must make sure that
   this repository will never have examples.
 - Added Rule Name to PS Script Analyzer custom rules
 - Added PsScript Analyzer Rule Name to Write-Warning output in meta.tests
+- Removed sections 'Goals' and 'Git and Unicode' as they have become redundant.
 
 ### 0.2.0.0
 
